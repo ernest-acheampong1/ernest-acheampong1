@@ -26,3 +26,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center">
+ <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+---
+### :man_technologist: About Me :
+
+I am a Cyber Security Analyst <img src="https://media.giphy.com/media/WU1plcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana&Japan.
+
+- :telescope: I'm currently studying Cyber Security and Engineering and loooking forward to contributing to the cyber space.
+- :seedling: Exploring Technical content writing and projects.
+- :zap: In my free time, I try to solve problems and read wide.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields/io/badge/-ernestacheampong-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url9
